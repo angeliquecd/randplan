@@ -46,5 +46,5 @@ for (i=0;i<10;i++){
   printf("Number %d:%d\n",i+1,toberead[i]);
 }
 printf("Done\n");
-return 1;
+return 0;
 }
